@@ -38,3 +38,9 @@ management:
       exposure:
         include: health,info,metrics
 
+---
+#spring:
+#     security:
+#       user:
+#        name: sam
+#        password: sam@123

@@ -19,6 +19,7 @@ public class Customer {
     @Id
     private Long phoneNo;
     private String name;
+    private String password;
     private Integer age;
     private Character gender;
     private String address;
